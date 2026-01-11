@@ -13,10 +13,10 @@ int main(void) {
         BeginDrawing();
         
         // Limpiar el fondo con color blanco
-        ClearBackground(RAYWHITE);
+        ClearBackground(LIGHTGRAY);
         
         // Dibujar el texto en pantalla (Texto, Posición X, Posición Y, Tamaño, Color)
-        DrawText("Raylib funciona en mi Repositorio", 190, 280, 20, DARKGREEN);
+        DrawText("Raylib funciona en mi Repositorio", 190, 280, 20, RED);
         
         // Finalizar el dibujo y mostrar en pantalla
         EndDrawing();
