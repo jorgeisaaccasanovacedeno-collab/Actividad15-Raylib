@@ -2,7 +2,7 @@
 
 int main(void) {
     // 1. Inicialización de la ventana (800x600 píxeles)
-    InitWindow(800, 600, "Proyecto Git/GitHub - Jorge Casanova");
+    InitWindow(800, 600, "Versión final: 3 commits completados");
 
     // 2. Establecer el límite de FPS (60 cuadros por segundo)
     SetTargetFPS(60); 
